@@ -22,9 +22,7 @@ The Infinite Monkey Theorem Generator was written in Node.js and requires no ext
 
 ## Future Improvements
 
-Currently, the program generates random characters using a simple algorithm that does not take into account the frequency of characters or words in the English language. A future improvement could be to use a more sophisticated algorithm that mimics the probability distribution of English language text.
-
-Another potential improvement would be to output the generated text to a file instead of just printing it to the console window. This would allow the user to save the generated text for later analysis.
+no 😇
 
 ## Contributing
 
